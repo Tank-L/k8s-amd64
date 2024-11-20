@@ -1,2 +1,3 @@
-FROM registry.cn-hangzhou.aliyuncs.com/library/nginx:1.22.0
+FROM mirrors.huaweicloud.com/library/nginx:1.22.0
+
 
